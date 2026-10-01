@@ -1,0 +1,5 @@
+numpy>=1.24
+scipy>=1.10
+scikit-learn>=1.3
+# only needed to regenerate oodgen/data/tk_grid.npz:
+# camb>=1.5
